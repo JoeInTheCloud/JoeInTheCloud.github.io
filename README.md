@@ -1,2 +1,1 @@
-# Joe-Mendez-AI-Engineer.github.io
-An AI engineer 
+Joe-in-the-Clouds.github.io
